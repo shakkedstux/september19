@@ -23,6 +23,7 @@ def testBasket():
     p = Basket([p1,p2,p3])
     print(p)
     p.printTotalBasket()
+    print("jhjh")
 
 if __name__ == '__main__':
     testBasket()   
